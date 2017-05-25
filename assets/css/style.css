@@ -1,0 +1,27 @@
+
+/**
+ * HW 5.17.17
+ **/
+
+
+.navbar-brandkp {
+  float: left;
+  height: 50px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 0px;
+  padding-left: 30px;
+    font-size: 25px;
+  line-height: 20px;
+  background-color: #4aaaa5;
+  color: blue;
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+    background-color: #4aaaa5;
+}
+
+@media only screen and (max-width: 640px) {
+	
+
+	}
